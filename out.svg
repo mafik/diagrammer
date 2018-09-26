@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="30.0" y="30.0" width="355.0" height="540.0" rx="30.0" ry="30.0" fill="#6d4" />
+<rect x="415.0" y="30.0" width="355.0" height="540.0" rx="30.0" ry="30.0" fill="#48d" />
+<text x="207.5" y="87.0" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">Android</text>
+
+<text x="592.5" y="87.0" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">Cloud</text>
+
+<rect x="60.0" y="120.0" width="295.0" height="420.0" rx="30.0" ry="30.0" fill="#86b" />
+<text x="207.5" y="177.0" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">LibEngine</text>
+
+<rect x="90.0" y="210.0" width="235.0" height="135.0" rx="18.0" ry="18.0" fill="#d48" />
+<rect x="90.0" y="375.0" width="235.0" height="135.0" rx="18.0" ry="18.0" fill="#d84" />
+<text x="207.5" y="288.75" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">Handler</text>
+<text x="207.5" y="453.75" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">Loader</text>
+<rect x="445.0" y="120.0" width="295.0" height="195.0" rx="30.0" ry="30.0" fill="#d48" />
+<rect x="445.0" y="345.0" width="295.0" height="195.0" rx="30.0" ry="30.0" fill="#d84" />
+<text x="592.5" y="228.75" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">FRONTEND</text>
+<text x="592.5" y="453.75" fill="white" font-size="30.0" font-family="Iosevka" text-anchor="middle">Service</text>
+<path d="M207.5,375.0 L207.5,345.0" stroke="black" stroke-width="5" /><path d="M218.1066017177982,355.6066017177982 L207.5,345.0 L196.8933982822018,355.6066017177982" stroke="black" fill="transparent" stroke-width="5" />
+<path d="M325.0,262.5 L445.0,262.5" stroke="black" stroke-width="5" /><path d="M434.3933982822018,273.1066017177982 L445.0,262.5 L434.3933982822018,251.8933982822018" stroke="black" fill="transparent" stroke-width="5" />
+<path d="M592.5,315.0 L592.5,345.0" stroke="black" stroke-width="5" /><path d="M581.8933982822018,334.3933982822018 L592.5,345.0 L603.1066017177982,334.3933982822018" stroke="black" fill="transparent" stroke-width="5" />
+</svg>
